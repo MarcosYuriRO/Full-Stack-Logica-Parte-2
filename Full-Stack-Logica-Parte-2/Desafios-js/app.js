@@ -64,6 +64,7 @@ numeroMaior(5, 4);*/
 };
 numeroQuadrado(10);*/
 
+
 //Tópico 3 Desafio 1
 /*function calculoIMC(altura, peso) {
     return console.log(peso/(altura*altura));
@@ -125,3 +126,26 @@ perimetroArea(3);*/
 };
 
 tabuada(8);*/
+
+
+//Tópico 4 Desafio 1
+/*let listagenerica = [];*/
+
+//Tópico 4 Desafio 2
+/*let linguagensDeProgramacao = ["JavaScript", "C", "C++", "Kotlin, Python"];
+console.log(linguagensDeProgramacao);
+//Tópico 4 Desafio 3
+linguagensDeProgramacao.push("Java", "Ruby", "GoLang");
+console.log(linguagensDeProgramacao);*/
+
+//Tópico 4 Desafio 4
+/*let listaNumeros = [1, 2, 3];
+console.log(listaNumeros[0]);*/
+
+//Tópico 4 Desafio 5
+/*let listaNumeros = [1, 2, 3];
+console.log(listaNumeros[1]);*/
+
+//Tópico 4 Desafio 6
+/*let listaNumeros = [1, 2, 3];
+console.log(listaNumeros[2]);*/
